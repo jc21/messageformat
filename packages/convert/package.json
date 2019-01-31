@@ -1,5 +1,5 @@
 {
-  "name": "messageformat-convert",
+  "name": "@jc21/messageformat-convert",
   "version": "0.2.0",
   "description": "Convert input (e.g. from Rails i18n) into messageformat-compatible JSON",
   "keywords": [

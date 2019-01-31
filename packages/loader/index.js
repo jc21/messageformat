@@ -1,6 +1,6 @@
 var loaderUtils = require('loader-utils');
 var MessageFormat = require('messageformat');
-var convert = require('messageformat-convert');
+var convert = require('@jc21/messageformat-convert');
 var YAML = require('yaml');
 
 module.exports = function(content) {
